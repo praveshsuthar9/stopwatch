@@ -1,0 +1,12 @@
+
+@media screen and (max-width:479px) {
+    .digit{
+        font-size: 50px;
+    }
+    .text{
+        font-size: 20px;
+    }
+    .btn{
+        padding: 3px 15px;
+    }
+}
